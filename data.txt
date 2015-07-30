@@ -1,0 +1,12 @@
+-- start --
+#Ubuntu switch keyboard language
+In *my Ubuntu 14.04* the text entry would not react or do anything, not sure why.
+It's a good thing we always can rely on the commandline, it's quite much faster as well.
+
+setxkbmap es
+or
+setxkbmap dk
+or
+setxkbmap fo
+
+-- end --
