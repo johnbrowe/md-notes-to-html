@@ -1,0 +1,6 @@
+#A Node.js program that converts .txt notes to HTML
+
+The idea is mainly that I write small notes in Gedit about all the programming barrier that I resolve through a day.
+These notes a written fast and I do not want to open a new file every time.
+
+As I often find the need to search through the notes my goal is convert these notes searchable list on my personal website based on my personal note syntax.
